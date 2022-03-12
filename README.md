@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ### 🚀 About 
-- 🤓 Hi, I'am Meng Jian 蒙建, a postgraduate student majoring in astrophysics from China.
+- 🤓 Hi, I'am Meng Jian 蒙建, from China.
 - 🔭 I’m currently working on computer programming, python data processing web spider, and astrophysics.
 - 🌱 I’m currently learning the afterglow phase of gamma-ray burst(GRB), studying the properties of the light curves.
 - 👯 I’m looking to collaborate on gamma-ray burst(GRB) jets, shock simulation, and in machine learning.
