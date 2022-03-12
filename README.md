@@ -23,6 +23,7 @@
  ## 📈 GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mengjian2024&show_icons=true&theme=highcontrast)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mengjian2024&layout=compact)](https://github.com/mengjian2024/github-readme-stats)
 <a href="https://github.com/mengjian2024/mengjian2024">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mengjian2024&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 
