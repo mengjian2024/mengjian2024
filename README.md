@@ -29,3 +29,9 @@
 ## I use it all the time Repos
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mengjian2024&repo=popsynth&theme=dark&show_icons=true)](https://github.com/mengjian2024/popsynth)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mengjian2024&repo=threeML&theme=dark&show_icons=true)](https://github.com/mengjian2024/threeML)
+ 
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- | 
+ 
+ 
+ 
