@@ -30,7 +30,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mengjian2024&repo=popsynth&theme=dark&show_icons=true)](https://github.com/mengjian2024/popsynth)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mengjian2024&repo=threeML&theme=dark&show_icons=true)](https://github.com/mengjian2024/threeML)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mengjian2024&repo=computational_astrophysics&theme=dark&show_icons=true)](https://github.com/mengjian2024/computational_astrophysics)
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mengjian2024&repo=popsynth&theme=dark&show_icons=true)](https://github.com/mengjian2024/popsynth)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mengjian2024&repo=Swift-Analysis&theme=dark&show_icons=true)](https://github.com/mengjian2024/Swift-Analysis )
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mengjian2024&repo=threeML&theme=dark&show_icons=true)](https://github.com/mengjian2024/threeML)
  
  
