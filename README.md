@@ -30,7 +30,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mengjian2024&repo=popsynth&theme=dark&show_icons=true)](https://github.com/mengjian2024/popsynth)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mengjian2024&repo=threeML&theme=dark&show_icons=true)](https://github.com/mengjian2024/threeML)
  
-| <a href="https://github.com/mengjian2024/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mengjian2024&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="mengjian2024's github stats" /></a> | <a href="https://github.com/mengjian2024/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mengjian2024&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/mengjian2024/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mengjian2024&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="mengjian2024's github stats" /></a> | <a href="https://github.com/mengjian2024/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mengjian2024&layout=compact&theme=dark&hide_border=true" /></a> |
 | ------------- | ------------- | 
  
  
