@@ -19,7 +19,7 @@
 ![](https://img.shields.io/badge/-GitHub-black?style=flat-circle&logo=GitHub)
 ![Git](https://img.shields.io/badge/-Git-yellow?style=flat-circle&logo=git)
 
-*NOTE:Top languages does not indicate my skill level or something like that ,it's a github metric of which languag code on github,it's a new feature of github-readme-stats*
+*NOTE:No small streams, no such rivers and seas. No silicon step, inconsistent thousands of miles!*
  ## 📈 GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mengjian2024&show_icons=true&theme=dark)
 
