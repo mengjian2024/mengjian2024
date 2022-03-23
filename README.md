@@ -19,7 +19,6 @@
 ![](https://img.shields.io/badge/-GitHub-black?style=flat-circle&logo=GitHub)
 ![Git](https://img.shields.io/badge/-Git-yellow?style=flat-circle&logo=git)
 
-*NOTE:No small streams, no such rivers and seas. No silicon step, inconsistent thousands of miles!*
  ## 📈 GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mengjian2024&show_icons=true&theme=dark)
 
@@ -31,8 +30,3 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mengjian2024&repo=computational_astrophysics&theme=dark&show_icons=true)](https://github.com/mengjian2024/computational_astrophysics)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mengjian2024&repo=Swift-Analysis&theme=dark&show_icons=true)](https://github.com/mengjian2024/Swift-Analysis )
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mengjian2024&repo=scientific_python_notebooks&theme=dark&show_icons=true)](https://github.com/mengjian2024/scientific_python_notebooks)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mengjian2024&repo=Probabilistic-Programming-and-Bayesian-Methods-for-Hackers&theme=dark&show_icons=true)](https://github.com/mengjian2024/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mengjian2024&repo=astromodels&theme=dark&show_icons=true)](https://github.com/mengjian2024/astromodels)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mengjian2024&repo=live_docs&theme=dark&show_icons=true)](https://github.com/mengjian2024/live_docs)  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mengjian2024&repo=live_docs&theme=dark&show_icons=true)](https://github.com/mengjian2024/live_docs) 
-
- 
-  
- 
-
