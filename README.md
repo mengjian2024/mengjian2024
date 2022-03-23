@@ -34,4 +34,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mengjian2024&repo=scientific_python_notebooks&theme=dark&show_icons=true)](https://github.com/mengjian2024/scientific_python_notebooks)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mengjian2024&repo=Probabilistic-Programming-and-Bayesian-Methods-for-Hackers&theme=dark&show_icons=true)](https://github.com/mengjian2024/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mengjian2024&repo=astromodels&theme=dark&show_icons=true)](https://github.com/mengjian2024/astromodels)  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mengjian2024&repo=live_docs&theme=dark&show_icons=true)](https://github.com/mengjian2024/live_docs)   
  
+
