@@ -22,8 +22,8 @@
  ## 📈 GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mengjian2024&show_icons=true&theme=dark)
 
-<a href="https://github.com/mengjian2024/mengjian2024">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mengjian2024&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+#<a href="https://github.com/mengjian2024/mengjian2024">
+  #<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?#username=mengjian2024&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />#
 
 ## I use it all the time Repos
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mengjian2024&repo=popsynth&theme=dark&show_icons=true)](https://github.com/mengjian2024/popsynth)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mengjian2024&repo=threeML&theme=dark&show_icons=true)](https://github.com/mengjian2024/threeML)
