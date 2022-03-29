@@ -22,8 +22,7 @@
  ### 📈 GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mengjian2024&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mengjian2024&layout=compact)]
-(https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mengjian2024&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### I use it all the time Repos
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mengjian2024&repo=popsynth&theme=dark&show_icons=true)](https://github.com/mengjian2024/popsynth)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mengjian2024&repo=threeML&theme=dark&show_icons=true)](https://github.com/mengjian2024/threeML)
