@@ -22,7 +22,9 @@
  ### 📈 GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mengjian2024&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mengjian2024&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/mengjian2024">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mengjian2024&theme=vue" />
+</a>
 
 ### I use it all the time Repos
 <a href="https://github.com/mengjian2024/threeML">
