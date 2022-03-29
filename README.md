@@ -24,6 +24,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mengjian2024&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mengjian&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ### I use it all the time Repos
 <a href="https://github.com/mengjian2024/threeML">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=mengjian2024&repo=threeML&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
