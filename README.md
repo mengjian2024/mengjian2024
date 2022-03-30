@@ -35,11 +35,7 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/-Git-yellow?style=flat-circle&logo=git)
 
  ### 📈 GitHub Stats
-<img align="right" style="pointer-events:none;" src="https://github-readme-stats.vercel.app/api?username=mengjian2024&show_icons=true&icon_color=E65A65&text_color=adbac7&bg_color=2d333b&hide_title=true&hide_border=true" />
-
----
-
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=mengjian2024&text_color=adbac7&hide_border=true&hide_title=true&langs_count=10&bg_color=2d333b&count_private=true&layout=compact&include_all_commits=true&card_width=900)](https://github.com/mengjian2024?tab=repositories)
+![booms21](https://github-readme-stats.vercel.app/api?username=mengjian2024&show_icons=true&include_all_commits=true?count_private=true?include_all_commits=true&theme=vue)
 <a href="https://github.com/mengjian2024">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mengjian2024&theme=vue" />
 </a>
@@ -72,4 +68,3 @@ Here are some ideas to get you started:
 
 
 
-![booms21](https://github-readme-stats.vercel.app/api?username=mengjian2024&show_icons=true&include_all_commits=true?count_private=true?include_all_commits=true&theme=vue)
