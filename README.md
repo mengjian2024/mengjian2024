@@ -36,6 +36,7 @@ Here are some ideas to get you started:
 
  ### 📈 GitHub Stats
 ![booms21](https://github-readme-stats.vercel.app/api?username=mengjian2024&show_icons=true&include_all_commits=true?count_private=true?include_all_commits=true&theme=vue)
+---
 <a href="https://github.com/mengjian2024">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mengjian2024&theme=vue" />
 </a>
