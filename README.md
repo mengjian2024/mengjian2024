@@ -13,9 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 --> 
- ### Hi there 👋
+ ## Hello GitHub Fans 👋
+ 
+ ---
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
-## 🚀 About 
+### 🚀 About 
 - 🤓 Hi, I'am Meng Jian 蒙建, from China.
 - 🔭 I’m currently working on computer programming, python data processing web spider, and astrophysics.
 - 🌱 I’m currently learning the afterglow phase of gamma-ray burst(GRB), studying the properties of the light curves.
