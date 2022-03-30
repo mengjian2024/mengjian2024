@@ -35,8 +35,8 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/-Git-yellow?style=flat-circle&logo=git)
 
  ### 📈 GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mengjian2024&show_icons=true&theme=dark)
-<img align="right" style="pointer-events:none;" src="https://github-readme-stats.vercel.app/api?username=autofelix&show_icons=true&icon_color=E65A65&text_color=adbac7&bg_color=2d333b&hide_title=true&hide_border=true" />
+<img align="right" style="pointer-events:none;" src="https://github-readme-stats.vercel.app/api?username=mengjian2024&show_icons=true&icon_color=E65A65&text_color=adbac7&bg_color=2d333b&hide_title=true&hide_border=true" />
+
 <a href="https://github.com/mengjian2024">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mengjian2024&theme=vue" />
 </a>
@@ -66,7 +66,3 @@ Here are some ideas to get you started:
 <a href="https://github.com/mengjian2024/live_docs">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=mengjian2024&repo=live_docs&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
 </a>
-
-
-
-
