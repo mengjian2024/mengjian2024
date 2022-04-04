@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 ### Hello World ! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">, I'm Meng Jian(蒙建) 👋  
   ---
 <img align="right" alt="GIF" width="350" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
 ### 🚀 About 
 - 🤓 Hi, I'am Meng Jian 蒙建, from China.
