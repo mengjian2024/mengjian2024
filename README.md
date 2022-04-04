@@ -19,19 +19,19 @@ Here are some ideas to get you started:
 </p>
 
 
-### Hello World ! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">, I'm Meng Jian(蒙建) 👋  
+### Hello World ! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">, I'm Meng Jian 👋  
   ---
 <img align="right" alt="GIF" width="350" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
 
-### 🚀 About 
-- 🤓<b>Hi, I'am Meng Jian 蒙建, from China</b>
-- 🔭<b>I’m currently working on Astronomical data analysis</b>
-- 🌱<b>I'm currently studying the Lcs properties of GRB</b>
-- 👯<b>I’m looking to collaborate on gamma-ray burst(GRB) jets</b>
-- 🤔<b>I’m looking for help with MCMC algorithm</b>
-- 🥅<b>2020 Goals: Steps towards algorithm ana Web crawler</b>
-- 📫<b>How to reach me: <mengjian2024@163.com>
-- 💬<b>Ask me about anything *[here](mengjian.github.io/)*</b>
+ 🚀 </h3> About Me </h3>
+- 🤓<b>Hi, I'am from China</b>
+- 🔭<b> I'm currently working on Astronomical data analysis </b>
+- 🌱<b> I'm currently studying the Lcs properties of GRB </b>
+- 👯<b> I'm looking to collaborate on gamma-ray burst(GRB) jets </b>
+- 🤔<b> I'm looking for help with MCMC algorithm</b>
+- 🥅<b> 2022 Goals: Steps towards algorithm ana Web crawler</b>
+- 📫<b> How to reach me: <mengjian2024@163.com>
+- 💬<b> Ask me about anything *[here](mengjian.github.io/)*</b>
 
 <h2 align="center">🛠️ Languages & Frameworks</h2>
 
