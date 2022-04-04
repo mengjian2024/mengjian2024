@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with Markov chain-Monte Carlo statistical.
 - 😄 Pronouns: He/Him
 - 📫 How to reach me: <mengjian2024@163.com>
-- 💬 Ask me about anything *[here](https://www.cnblogs.com/)*.
+- 💬 Ask me about anything *[here](mengjian.github.io/)*.
 
 ### 🔧 Technologies & Tools
 ![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-circle&logo=Docker)
