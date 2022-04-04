@@ -24,14 +24,14 @@ Here are some ideas to get you started:
 <img align="right" alt="GIF" width="350" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
 
 ### 🚀 About 
-- 🤓 Hi, I'am Meng Jian 蒙建, from China.
-- 🔭 I’m currently working on Astronomical data analysis.
-- 🌱 I'm currently studying the Lcs properties of GRB.
-- 👯 I’m looking to collaborate on gamma-ray burst(GRB) jets.
-- 🤔 I’m looking for help with MCMC algorithm.
-- 😄 Pronouns: He/Him
-- 📫 How to reach me: <mengjian2024@163.com>
-- 💬 Ask me about anything *[here](mengjian.github.io/)*.
+- 🤓<b>Hi, I'am Meng Jian 蒙建, from China</b>
+- 🔭<b>I’m currently working on Astronomical data analysis</b>
+- 🌱<b>I'm currently studying the Lcs properties of GRB</b>
+- 👯<b>I’m looking to collaborate on gamma-ray burst(GRB) jets</b>
+- 🤔<b>I’m looking for help with MCMC algorithm</b>
+- 🥅<b>2020 Goals: Steps towards algorithm ana Web crawler</b>
+- 📫<b>How to reach me: <mengjian2024@163.com>
+- 💬<b>Ask me about anything *[here](mengjian.github.io/)*</b>
 
 <h2 align="center">🛠️ Languages & Frameworks</h2>
 
