@@ -25,10 +25,10 @@ Here are some ideas to get you started:
 
 ### 🚀 About 
 - 🤓 Hi, I'am Meng Jian 蒙建, from China.
-- 🔭 I’m currently working on computer programming, python data processing web spider, and astrophysics.
-- 🌱 I’m currently learning the afterglow phase of gamma-ray burst(GRB), studying the properties of the light curves.
-- 👯 I’m looking to collaborate on gamma-ray burst(GRB) jets, shock simulation, and in machine learning.
-- 🤔 I’m looking for help with Markov chain-Monte Carlo statistical.
+- 🔭 I’m currently working on Astronomical data analysis.
+- 🌱 I’m currently learning the afterglow phase of gamma-ray burst(GRB), studying the properties of the LCs.
+- 👯 I’m looking to collaborate on gamma-ray burst(GRB) jets, web crawl astronomical data.
+- 🤔 I’m looking for help with MCMC parameter estimation.
 - 😄 Pronouns: He/Him
 - 📫 How to reach me: <mengjian2024@163.com>
 - 💬 Ask me about anything *[here](mengjian.github.io/)*.
