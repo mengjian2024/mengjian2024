@@ -13,6 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 --> 
+<p align="center">
+ <img width="50px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="profile logo" />
+ <h2 align="center">Profile </h2>
+</p>
  ## Hello GitHub Fans 👋
  
  ---
