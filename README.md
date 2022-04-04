@@ -17,9 +17,10 @@ Here are some ideas to get you started:
  <img width="50px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="profile logo" />
  <h2 align="center">Profile </h2>
 </p>
- ## Hello GitHub Fans 👋
- 
- ---
+
+
+### Hello World ! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">, I'm Meng Jian(蒙建) 👋  <img align="right" src="https://komarev.com/ghpvc/?username=vivek38singh" alt="vivek38singh" />
+  ---
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
 ### 🚀 About 
