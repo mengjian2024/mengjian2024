@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 - 🤔<b> I'm looking for help with MCMC algorithm</b>
 - 🥅<b> 2022 Goals: Steps towards algorithm ana Web crawler</b>
 - 📫<b> How to reach me: <mengjian2024@163.com>
-- 💬<b> Ask me about anything *[here](mengjian.github.io/)*</b>
+- 💬<b> Ask me about anything *[here](https://mengjian2024.github.io/)*</b>
 
 <h2 align="center">🛠️ Languages & Frameworks</h2>
 
