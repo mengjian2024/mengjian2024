@@ -62,15 +62,7 @@ Here are some ideas to get you started:
 </a>
 
 ### I use it all the time Repos
-<a href="https://github.com/mengjian2024/threeML">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=mengjian2024&repo=threeML&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
-</a>
-<a href="https://github.com/mengjian2024/astromodels">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=mengjian2024&repo=astromodels&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
-</a>
-<a href="https://github.com/mengjian2024/popsynth">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=mengjian2024&repo=popsynth&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
-</a>
+
 <a href="https://github.com/mengjian2024/computational_astrophysics">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=mengjian2024&repo=computational_astrophysics&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
 </a>
