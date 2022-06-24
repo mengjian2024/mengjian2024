@@ -26,7 +26,7 @@ Here are some ideas to get you started:
  🚀 </h3> About Me </h3>
 - 🤓<b>Hi, I'am from China</b>
 - 🔭<b> I'm currently working on Astronomical data analysis </b>
-- 🌱<b> I'm currently studying the Lcs properties of GRB </b>
+- 🌱<b> I'm currently studying the LCs properties of GRB </b>
 - 👯<b> I'm looking to collaborate on gamma-ray burst(GRB) jets </b>
 - 🤔<b> I'm looking for help with MCMC algorithm</b>
 - 🥅<b> 2022 Goals: Steps towards algorithm ana Web crawler</b>
